@@ -8,6 +8,5 @@ console.log(3+3)
 // symbol => unique
 
 //object
-
 console.log(typeof undefined); // undefined
-console.log(typeof null); //object
+console.log(typeof null);
