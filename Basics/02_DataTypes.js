@@ -10,3 +10,4 @@ console.log(3+3)
 //object
 console.log(typeof undefined); // undefined
 console.log(typeof null);
+console.log(typeof array)
