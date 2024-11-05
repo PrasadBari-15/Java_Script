@@ -42,3 +42,4 @@ console.log(n2)
 console.log(typeof n2)
 
 console.log(arr.join(arr1))
+ 
