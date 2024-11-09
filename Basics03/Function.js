@@ -52,3 +52,16 @@ function logoff(name = "Ram"){
 console.log(logoff("prasad"))
 console.log(logoff())
 console.log(logoff(""))
+
+
+//Creating functions different types
+const arr = function(){
+    console.log("Hello")
+}
+
+const chai =  () => {
+    let username = "hitesh"
+    console.log(this);
+}
+
+chai()
