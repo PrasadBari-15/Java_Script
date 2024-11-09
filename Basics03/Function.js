@@ -65,3 +65,17 @@ const chai =  () => {
 }
 
 chai()
+
+/////// Arrow Function ///////
+//1. Basic Arrow Function
+const add = (num1,num2) => {
+    return num1+num2;
+}
+console.log(add(4,6));
+
+//2. impleset return => no need of return and { }
+const sub =(num1,num2) => (num1-num2)
+console.log(sub(5,2))
+
+const mul = (num1,num2)=>({name:"prasad"})
+mul(1,5)
